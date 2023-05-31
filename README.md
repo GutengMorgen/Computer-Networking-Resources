@@ -6,3 +6,7 @@ Diagrams to understand the infrastructure of ISPs, LANs, WANs, Packet Switching,
 
 # Internet Infrastructure
 ![internet infrastructure](/Internet%20Infrastructure.png)
+
+
+# Contributions
+***YES!!!***
