@@ -15,12 +15,17 @@ Diagrams to understand the internet backbone (infrastructure of ISPs), LANs, WAN
 ![diagrams](/diagrams.png)
 
 # Glossary
-![glosary](/Glossary.png)
+<!-- ![glosary](/Glossary.png) -->
+
 
 # Internet Infrastructure
 ![internet infrastructure](/internet%20diagram-internet%20backbones.png)
 
 # Address Distribution Hierarchy
+
+### Resources
+- [Host identity protocol](https://www.researchgate.net/figure/Address-Distribution-Hierarchy-for-the-Internet_fig1_233893326)
+
 ![Address Distribution Hierarchy](/Address%20Distribution%20Hierarchy.png)
 # Contributions
 ***YES!!!***
