@@ -26,6 +26,6 @@ Diagrams to understand the internet backbone (infrastructure of ISPs), LANs, WAN
 - [IANA pages](https://www.iana.org/numbers)
 - [About AS & ASN](https://www.ipxo.com/blog/what-is-asn/)
 
-![Address Distribution Hierarchy](/Address%20Distribution%20Hierarchy.png)
+![Address Distribution Hierarchy](/Images/Address%20Distribution%20Hierarchy.png)
 # Contributions
 ***YES!!!***
