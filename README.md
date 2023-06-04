@@ -25,6 +25,7 @@ Diagrams to understand the internet backbone (infrastructure of ISPs), LANs, WAN
 
 ### Resources
 - [Host identity protocol](https://www.researchgate.net/figure/Address-Distribution-Hierarchy-for-the-Internet_fig1_233893326)
+- [IANA pages](https://www.iana.org/numbers)
 
 ![Address Distribution Hierarchy](/Address%20Distribution%20Hierarchy.png)
 # Contributions
