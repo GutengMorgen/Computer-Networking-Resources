@@ -9,7 +9,6 @@ Diagrams to understand the internet backbone (infrastructure of ISPs), LANs, WAN
     - [Internet Backbone, Protocols & Addresses](https://sites.google.com/site/mrstevensonstechclassroom/home/strand-3-it-systems/3-4-internet/internet-protocols-addresses)
     - [Internet Exchange Points](https://www.datacentermap.com/ixps.html)
     - [Data Center Map](https://www.datacentermap.com/)
-    - [About AS & ASN](https://www.ipxo.com/blog/what-is-asn/)
 
 # Diagrams
 ![diagrams](/diagrams.png)
@@ -26,6 +25,7 @@ Diagrams to understand the internet backbone (infrastructure of ISPs), LANs, WAN
 ### Resources
 - [Host identity protocol](https://www.researchgate.net/figure/Address-Distribution-Hierarchy-for-the-Internet_fig1_233893326)
 - [IANA pages](https://www.iana.org/numbers)
+- [About AS & ASN](https://www.ipxo.com/blog/what-is-asn/)
 
 ![Address Distribution Hierarchy](/Address%20Distribution%20Hierarchy.png)
 # Contributions
