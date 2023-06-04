@@ -10,14 +10,14 @@ Diagrams to understand the internet backbone (infrastructure of ISPs), LANs, WAN
 - [Data Center Map](https://www.datacentermap.com/)
 
 # Diagrams
-![diagrams](/diagrams.png)
+![diagrams](/Images/diagrams.png)
 
 <!-- # Glossary -->
 <!-- ![glosary](/Glossary.png) -->
 
 
 # Internet Infrastructure
-![internet infrastructure](/internet%20diagram-internet%20backbones.png)
+![internet infrastructure](/Images/internet%20backbones.png)
 
 # Address Distribution Hierarchy
 
