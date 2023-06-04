@@ -18,7 +18,7 @@ Diagrams to understand the internet backbone (infrastructure of ISPs), LANs, WAN
 ![glosary](/Glossary.png)
 
 # Internet Infrastructure
-![internet infrastructure](/Internet%20Infrastructure.png)
+![internet infrastructure](/internet%20diagram-internet%20backbones.png)
 
 
 # Contributions
