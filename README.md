@@ -33,6 +33,7 @@ Diagrams to understand the internet backbone (infrastructure of ISPs), LANs, WAN
 ### Resources
 - [XYZ Network](https://xyznetwork.blogspot.com/)
 - [Compute Networking](https://github.com/bregman-arie/computer-networking)
+- [TCP/IP](https://xyznetwork.blogspot.com/2009/08/the-tcpip-model_14.html)
 
 # Contributions
 ***YES!!!***
